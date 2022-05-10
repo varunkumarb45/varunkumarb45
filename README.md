@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud technology
 - 🌱 I’m currently learning AWS, Devops
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me varunb195@gmail.com
+- 📫 How to reach me 
 
 <!---
 varunkumarb45/varunkumarb45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
